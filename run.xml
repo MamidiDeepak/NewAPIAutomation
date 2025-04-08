@@ -1,0 +1,11 @@
+<suite name = "final Suite">
+    <test name = "final test">
+        <classes>
+            <class name = "org.ShareAbleAPIAutomationFramework.tests.GenerateToken"/>
+            <class name = "org.ShareAbleAPIAutomationFramework.tests.TestPOSTAPI"/>
+            <class name = "org.ShareAbleAPIAutomationFramework.tests.TestGETAPI"/>
+            <class name = "org.ShareAbleAPIAutomationFramework.tests.TestPUTAPI"/>
+            <class name = "org.ShareAbleAPIAutomationFramework.tests.TestPATCHAPI"/>
+        </classes>
+    </test>
+</suite>
